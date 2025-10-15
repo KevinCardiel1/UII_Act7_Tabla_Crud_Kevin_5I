@@ -1,5 +1,2 @@
-<img width="1751" height="652" alt="image" src="https://github.com/user-attachments/assets/4fcc6ca7-f99e-44bb-8a5e-a5c1e01c7c6f" />
+<img width="1310" height="699" alt="Captura de pantalla 2025-10-14 203650" src="https://github.com/user-attachments/assets/87ab71c1-40a5-44a8-acbd-b30c23a0da00" />
 
-
-# Act-7-CRUD-Tabla-Valeria-Herrera-5i
-De crud
