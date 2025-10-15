@@ -1,2 +1,5 @@
-# UII_Act7_Tabla_Crud_Kevin_5I
-<img width="1310" height="699" alt="image" src="https://github.com/user-attachments/assets/187ce7dd-4246-4957-b22b-3e7ca347dbd8" />
+<img width="1751" height="652" alt="image" src="https://github.com/user-attachments/assets/4fcc6ca7-f99e-44bb-8a5e-a5c1e01c7c6f" />
+
+
+# Act-7-CRUD-Tabla-Valeria-Herrera-5i
+De crud
